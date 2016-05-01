@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 15 20:04:01 2016
-v2 with #1,#2 & #3 Tests
+v4 with #1,#2 & #3 Tests
 @author: slawler
 """
 
